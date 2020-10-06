@@ -8,13 +8,14 @@
 
 🔭 I’m currently working on ...
 
-- mapbox-vue (better name TBD)
-- My own portfolio! - Design v1 is out! I will build it with Nuxt.js and HTML/CSS (maybe my SASS/SCSS skills? 😄), and Netlify
+- mapbox-vue (better name TBD!)
+- personal portfolio (Nuxt.js)
 
 
 🌱 I’m currently learning ...
-- Vue.js 3
-- Front-end development
+- Vue.js
+- Nuxt.js
+- React.js (just starting!)
 
 
 👯 I’m looking to collaborate on ...
@@ -38,6 +39,9 @@
 - [LinkedIn](https://www.linkedin.com/in/maureento)
 - [DEV](https://dev.to/maureento8888)
 - [Dribbble](https://dribbble.com/maureen_to)
+
+Or email: maureenito@gmail.com
+*Please have "GitHub README.md" somewhere in subject line!*
 
 
 😄 Pronouns: ...

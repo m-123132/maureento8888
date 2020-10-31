@@ -26,7 +26,7 @@
 🤔 I’m looking for help with ...
 - Vue.js (v3)
 - Backend development
-- Software for e-commerce
+- Finding companies that create software for good
 - Building full-stack apps
 - Databases
 
@@ -35,6 +35,7 @@
 - UI/UX Design
 - Front-end development
 - Self-taught path
+- Multi-disciplinary collaboration
 
 
 📫 How to reach me: ...

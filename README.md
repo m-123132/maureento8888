@@ -8,14 +8,15 @@
 
 🔭 I’m currently working on ...
 
-- mapbox-vue (better name TBD!)
-- personal portfolio (Nuxt.js)
+- Game of Thrones (GoT) Character Reel web app
+- Web app that compiles Toronto/GTA-based Black-owned restaurants
+- Personal portfolio (Nuxt.js)
 
 
 🌱 I’m currently learning ...
 - Vue.js
 - Nuxt.js
-- React.js (just starting!)
+- React.js (just curious!)
 
 
 👯 I’m looking to collaborate on ...
@@ -25,14 +26,15 @@
 🤔 I’m looking for help with ...
 - Vue.js (v3)
 - Backend development
+- Software for e-commerce
 - Building full-stack apps
 - Databases
 
 
 💬 Ask me about ...
-- Vue.js
 - UI/UX Design
 - Front-end development
+- Self-taught path
 
 
 📫 How to reach me: ...

@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on ...
 
-- Game of Thrones (GoT) Character Reel web app
+- Game of Thrones (GoT) Character Reel web app (Nuxt.js)
 - Web app that compiles Toronto/GTA-based Black-owned restaurants
 - Personal portfolio (Nuxt.js)
 

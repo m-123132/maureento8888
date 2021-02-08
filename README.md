@@ -5,12 +5,10 @@
 
 #### Welcome to my README! I'll keep this short since I have many introductions across my various platforms!
 <br>
-<br>
 😄 Pronouns: ...
 <ul>
   <li>She/Her</li>
 </ul>
-<br>
 <br>
 📫 How to reach me: ...
 <ul>
@@ -21,7 +19,6 @@
 Or email: maureenito@gmail.com
 *Please have "GitHub README.md" somewhere in subject line!*
 <br>
-<br>
 🔭 I’m currently working on ...
 <uL>
   <li>Game of Thrones (GoT) Character Reel (Nuxt.js)</li>
@@ -29,13 +26,11 @@ Or email: maureenito@gmail.com
   <li>Personal portfolio (Nuxt.js)</li>
 </ul>
 <br>
-<br>
 🌱 I’m currently learning ...
 <ul>
   <li>Vue.js</li>
   <li>Nuxt.js</li>
 </ul>
-<br>
 <br>
 👯 I’m looking to collaborate on ...
 <ul>
@@ -43,7 +38,6 @@ Or email: maureenito@gmail.com
     Multidisciplinary projects across fields and backgrounds! - anti-racism, activism, mental health, academia (sport sociology, physical cultural studies, etc.)
   </li>
 </ul>
-<br>
 <br>
 🤔 I’m looking for help with ...
 <ul>
@@ -53,14 +47,12 @@ Or email: maureenito@gmail.com
   <li>Databases</li>
 </ul>
 <br>
-<br>
 💬 Ask me about ...
 <ul>
   <li>UI/UX Design</li>
   <li>Front-end Development</li>
   <li>Self-taught path</li>
 </ul>
-<br>
 <br>
 ⚡ Fun fact: ...
 <ul>

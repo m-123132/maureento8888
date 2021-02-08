@@ -12,7 +12,7 @@
 <br>
   <h4>📫 How to reach me: ...</h4>
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/maureento)</li>
+  <a href="https://www.linkedin.com/in/maureento" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>
   <li>[DEV](https://dev.to/maureento8888)</li>
   <li>[Dribbble](https://dribbble.com/maureen_to)</li>
 </ul>

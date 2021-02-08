@@ -7,7 +7,7 @@
 <br>
   <h4>😄 Pronouns: ...</h4>
 <ul>
-  <li>She/Her</li>
+  <li>she/her</li>
 </ul>
 <br>
   <h4>📫 How to reach me: ...</h4>
@@ -17,7 +17,7 @@
   <li><a href="https://dribbble.com/maureen_to" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
 </ul>
 <p>Or email: maureenito@gmail.com</p>
-<p>*Please have **"GitHub README.md"** somewhere in subject line!*</p>
+<p><em>Please have "GitHub README.md" somewhere in subject line!</em></p>
 <br>
   <h4>🔭 I’m currently working on ...</h4>
 <uL>

@@ -16,8 +16,8 @@
   <li>[DEV](https://dev.to/maureento8888)</li>
   <li>[Dribbble](https://dribbble.com/maureen_to)</li>
 </ul>
-Or email: maureenito@gmail.com
-*Please have "GitHub README.md" somewhere in subject line!*
+<p>Or email: maureenito@gmail.com</p>
+<p>*Please have "GitHub README.md" somewhere in subject line!*</p>
 <br>
 🔭 I’m currently working on ...
 <uL>

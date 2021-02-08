@@ -4,9 +4,12 @@
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 #### Welcome to my README! I'll keep this short since I have many introductions across my various platforms!
-
+<br>
+<br>
 😄 Pronouns: ...
-- She/Her
+<ul>
+  <li>She/Her</li>
+</ul>
 <br>
 <br>
 📫 How to reach me: ...
@@ -15,38 +18,51 @@
   <li>[DEV](https://dev.to/maureento8888)</li>
   <li>[Dribbble](https://dribbble.com/maureen_to)</li>
 </ul>
-<br>
 Or email: maureenito@gmail.com
 *Please have "GitHub README.md" somewhere in subject line!*
 <br>
 <br>
 🔭 I’m currently working on ...
-- Game of Thrones (GoT) Character Reel (Nuxt.js)
-- Search for Toronto/GTA-based Black-owned restaurants
-- Personal portfolio (Nuxt.js)
+<uL>
+  <li>Game of Thrones (GoT) Character Reel (Nuxt.js)</li>
+  <li>Search for Toronto/GTA-based Black-owned restaurants</li>
+  <li>Personal portfolio (Nuxt.js)</li>
+</ul>
 <br>
 <br>
 🌱 I’m currently learning ...
-- Vue.js
-- Nuxt.js
+<ul>
+  <li>Vue.js</li>
+  <li>Nuxt.js</li>
+</ul>
 <br>
 <br>
 👯 I’m looking to collaborate on ...
-- Multidisciplinary projects across fields and backgrounds! - anti-racism, activism, mental health, academia (sport sociology, physical cultural studies, etc.)
+<ul>
+  <li>
+    Multidisciplinary projects across fields and backgrounds! - anti-racism, activism, mental health, academia (sport sociology, physical cultural studies, etc.)
+  </li>
+</ul>
 <br>
 <br>
 🤔 I’m looking for help with ...
-- Vue.js and Nuxt.js
-- Backend and full-stack development
-- Finding companies that create software for good
-- Databases
+<ul>
+  <li>Vue.js and Nuxt.js</li>
+  <li>Backend and full-stack development</li>
+  <li>Finding companies that create software for good</li>
+  <li>Databases</li>
+</ul>
 <br>
 <br>
 💬 Ask me about ...
-- UI/UX Design
-- Front-end development
-- Self-taught path
+<ul>
+  <li>UI/UX Design</li>
+  <li>Front-end Development</li>
+  <li>Self-taught path</li>
+</ul>
 <br>
 <br>
 ⚡ Fun fact: ...
-- I'm a twin 👯‍♀️
+<ul>
+  <li>I'm a twin 👯‍♀️</li>
+</ul>

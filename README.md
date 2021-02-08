@@ -10,9 +10,11 @@
 <br>
 <br>
 📫 How to reach me: ...
-- [LinkedIn](https://www.linkedin.com/in/maureento)
-- [DEV](https://dev.to/maureento8888)
-- [Dribbble](https://dribbble.com/maureen_to)
+<ul>
+  <li>[LinkedIn](https://www.linkedin.com/in/maureento)</li>
+  <li>[DEV](https://dev.to/maureento8888)</li>
+  <li>[Dribbble](https://dribbble.com/maureen_to)</li>
+</ul>
 <br>
 Or email: maureenito@gmail.com
 *Please have "GitHub README.md" somewhere in subject line!*

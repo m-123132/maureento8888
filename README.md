@@ -7,19 +7,19 @@
 
 😄 Pronouns: ...
 - She/Her
-
-
-
+<br>
+<br>
+<br>
 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/maureento)
 - [DEV](https://dev.to/maureento8888)
 - [Dribbble](https://dribbble.com/maureen_to)
-
+<br>
 Or email: maureenito@gmail.com
 *Please have "GitHub README.md" somewhere in subject line!*
-
-
-
+<br>
+<br>
+<br>
 🔭 I’m currently working on ...
 - Game of Thrones (GoT) Character Reel (Nuxt.js)
 - Search for Toronto/GTA-based Black-owned restaurants

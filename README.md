@@ -12,12 +12,12 @@
 <br>
   <h4>📫 How to reach me: ...</h4>
 <ul>
-  <a href="https://www.linkedin.com/in/maureento" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>
-  <li>[DEV](https://dev.to/maureento8888)</li>
-  <li>[Dribbble](https://dribbble.com/maureen_to)</li>
+  <li><a href="https://www.linkedin.com/in/maureento" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a></li>
+  <li><a href="https://dev.to/maureento8888" rel="noopener noreferral" alt="dev.to">DEV</a></li>
+  <li><a href="https://dribbble.com/maureen_to" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
 </ul>
 <p>Or email: maureenito@gmail.com</p>
-<p>*Please have "GitHub README.md" somewhere in subject line!*</p>
+<p>*Please have **"GitHub README.md"** somewhere in subject line!*</p>
 <br>
   <h4>🔭 I’m currently working on ...</h4>
 <uL>

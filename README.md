@@ -5,11 +5,6 @@
 
 <h3>Welcome to my README! I'll keep this short since I have many introductions across my various platforms!</h3>
 <br>
-  <h4>😄 Pronouns: ...</h4>
-<ul>
-  <li>she/her</li>
-</ul>
-<br>
   <h4>📫 How to reach me: ...</h4>
 <ul>
   <li><a href="https://www.linkedin.com/in/maureento" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a></li>

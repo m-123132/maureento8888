@@ -1,4 +1,4 @@
-## Hello reader! 👋
+## Hello! 👋
 
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,9 +10,8 @@
   <li><a href="https://www.linkedin.com/in/maureento" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
   <li><a href="https://dev.to/maureento8888" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
   <li><a href="https://dribbble.com/maureen_to" rel="noopener noreferrer" alt="Dribbble">Dribbble</a></li>
+  <li>Send a mail 🐌: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
 </ul>
-<p> Or email: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a>
-<em>Please have "GitHub README.md" somewhere in subject line!</em></p>
 <br>
   <h4>🔭 I’m currently working on ...</h4>
 <uL>

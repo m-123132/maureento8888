@@ -3,13 +3,13 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3>Welcome to my README! I'll keep this short since I have many introductions across my various platforms!</h3>
+<h3>Have a question? Want to collaborate? Job request? 👇🏼</h3>
 <br>
   <h4>📫 How to reach me: ...</h4>
 <ul>
-  <li><a href="https://www.linkedin.com/in/maureento" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
-  <li><a href="https://dev.to/maureento8888" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
-  <li><a href="https://dribbble.com/maureen_to" rel="noopener noreferrer" alt="Dribbble">Dribbble</a></li>
+  <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
+  <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
+  <li><a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferrer" alt="Dribbble">Dribbble</a></li>
   <li>Send a mail 🐌: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
 </ul>
 <br>

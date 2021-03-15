@@ -11,8 +11,8 @@
   <li><a href="https://dev.to/maureento8888" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
   <li><a href="https://dribbble.com/maureen_to" rel="noopener noreferrer" alt="Dribbble">Dribbble</a></li>
 </ul>
-<p> Or email: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a></p>
-<p><em>Please have "GitHub README.md" somewhere in subject line!</em></p>
+<p> Or email: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a>
+<em>Please have "GitHub README.md" somewhere in subject line!</em></p>
 <br>
   <h4>🔭 I’m currently working on ...</h4>
 <uL>

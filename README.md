@@ -45,8 +45,3 @@
   <li>Front-end Development</li>
   <li>Self-taught path</li>
 </ul>
-<br>
-  <h4>⚡ Fun fact: ...</h4>
-<ul>
-  <li>I'm a twin 👯‍♀️</li>
-</ul>

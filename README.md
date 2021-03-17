@@ -1,14 +1,14 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- ### Header -->
+### UI/UX Designer, Frontend Dev, and Reader
 
 <h4>📫 Say hi ...</h4>
 <ul>
-  <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
-  <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
-  <li><a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferrer" alt="Dribbble">Dribbble</a></li>
-  <li>Send a mail 🐌: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferrer">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
+  <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a></li>
+  <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferral" alt="dev.to">DEV</a></li>
+  <li><a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
+  <li>Send a mail 🐌: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
 </ul>
 <br>
   <h4>🔭 I’m currently working on ...</h4>

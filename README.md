@@ -1,7 +1,9 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3>📫 Say hi ...</h3>
+<!-- ### Header -->
+
+<h4>📫 Say hi ...</h4>
 <ul>
   <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
   <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferrer" alt="dev.to">DEV</a></li>

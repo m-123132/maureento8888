@@ -2,8 +2,7 @@
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p>Have a question? Want to collaborate? Job request? 👇🏼</p>
-<br>
-  <h4>📫 How to reach me: ...</h4>
+  <h4>📫 Say hi ...</h4>
 <ul>
   <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferrer" alt="LinkedIn">LinkedIn</a></li>
   <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferrer" alt="dev.to">DEV</a></li>
@@ -26,8 +25,11 @@
 <br>
   <h4>💡 I’m looking to collaborate on ...</h4>
 <ul>
-  <li>Multidisciplinary projects across fields and backgrounds!</li>
-  <li>Anti-racism, activism, mental health, academia (sport sociology, physical cultural studies, etc.)</li>
+  <li>Multidisciplinary projects across various fields</li>
+  <li>Anti-racism</li>
+  <li>Activism<li/>
+  <li>Public health<li/>
+  <li>Academia (sport sociology, physical cultural studies, etc.)<li/>
 </ul>
 <br>
   <h4>💬 I’m looking for help with ...</h4>

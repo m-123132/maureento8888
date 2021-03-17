@@ -1,7 +1,7 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### I'm a UI/UX Designer, Frontend Dev, and Reader
+### 👩🏻‍💻 I'm a UI/UX Designer, Frontend Dev, and Reader
 
 <h4>📫 Say hi ...</h4>
 <ul>
@@ -44,6 +44,7 @@
   <h4>☺️ Ask me about ...</h4>
 <ul>
   <li>UI/UX Design</li>
-  <li>Front-end Development</li>
+  <li>Frontend Development</li>
+  <li>Responsive Web Design</li>
   <li>Self-taught path</li>
 </ul>

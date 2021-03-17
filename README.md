@@ -1,7 +1,7 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3>Have a question? Want to collaborate? Job request? 👇🏼</h3>
+<p>Have a question? Want to collaborate? Job request? 👇🏼</p>
 <br>
   <h4>📫 How to reach me: ...</h4>
 <ul>

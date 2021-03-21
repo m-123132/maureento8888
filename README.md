@@ -3,7 +3,7 @@
 
 ### 👩🏻‍💻  I'm Maureen
 
-<h4>UI/UX Designer, Frontend Dev, and Reader</h4>
+<h4>UI/UX Designer, Frontend Dev</h4>
 <br>
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/maureento8888/got-reel.git" target="_blank" rel="noopener noreferral">Game of Thrones character reel</a>, and <a href="https://github.com/maureento8888/Frontend-Mentor-Challenges.git" target="_blank" rel="https://github.com/maureento8888/Frontend-Mentor-Challenges.git">frontendmentor.io challenges</a></li>

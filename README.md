@@ -19,7 +19,7 @@
   
   
   <li>
-    <p>💡 I’m looking to collaborate on multidisciplinary projects involving <strong>social justice</strong>, <strong>UI/UX</strong>, and <strong>Vue/Nuxt</strong></p>
+    <p>💡 I’m looking to collaborate on <strong>multidisciplinary projects</strong> on <strong>social justice</strong>, <strong>UI/UX</strong>, and <strong>Vue/Nuxt</strong></p>
   </li>
   
   

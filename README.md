@@ -16,6 +16,7 @@
   <br>
   <li>Occasional tech blogging at <a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferral" alt="dev.to">DEV</a></li>
   <br>
-  <li>How to reach me: <a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>, , or <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
+  <li>How to reach me: <a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>, or <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>. <em>Please have "GitHub README.md" somewhere in subject line!</em></li>
   <br>
-  <li>☺️ Ask me about UI/UX design, frontend development, responsive web design, self-taught path</li>
+  <li>☺️ Ask me about UI/UX design, frontend development, responsive web design, and self-teaching</li>
+</ul>

@@ -10,7 +10,7 @@
   <br>
   <li>🌱 I’m currently learning Vue.js and Nuxt.js</li>
   <br>
-  <li>💡 I’m looking to collaborate on multidisciplinary projects involving social justice, UI/UX, and Vue/Nuxt</li>
+  <li>💡 I’m looking to collaborate on multidisciplinary projects involving <strong>social justice</strong>, <strong>UI/UX</strong>, and <strong>Vue/Nuxt</strong></li>
   <br>
   <li>My design work: <a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
   <br>

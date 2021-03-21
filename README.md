@@ -1,7 +1,7 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### 👩🏻‍💻  I'm Maureen
+### I develop what I design 👩🏻‍💻
 
 <h4>UI/UX Designer, Frontend Dev</h4>
 <br>

@@ -3,7 +3,8 @@
 
 ### I develop what I design 👩🏻‍💻
 
-<h4>UI/UX Designer, Frontend Dev</h4>
+#### UI/UX Designer, Frontend Dev
+
 <br>
 <ul>
   

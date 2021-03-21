@@ -1,50 +1,15 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### 👩🏻‍💻 I'm a UI/UX Designer, Frontend Dev, and Reader
+### 👩🏻‍💻  I'm Maureen
 
-<h4>📫 Say hi ...</h4>
-<ul>
-  <li><a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a></li>
-  <li><a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferral" alt="dev.to">DEV</a></li>
-  <li><a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
-  <li>Send a mail 🐌: <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
-</ul>
+<h4>UI/UX Designer, Frontend Dev, Reader, and more</h4>
 <br>
-  <h4>🔭 I’m currently working on ...</h4>
-<uL>
-  <li>Game of Thrones (GoT) Character Reel (Nuxt.js)</li>
-  <li>Search for Toronto/GTA-based Black-owned restaurants</li>
-  <li>Personal portfolio (Nuxt.js)</li>
-</ul>
-<br>
-  <h4>🌱 I’m currently learning ...</h4>
 <ul>
-  <li>Vue.js</li>
-  <li>Nuxt.js</li>
-</ul>
-<br>
-  <h4>💡 I’m looking to collaborate on ...</h4>
-<ul>
-  <li>Multidisciplinary projects across various fields</li>
-  <li>Anti-racism</li>
-  <li>Activism</li>
-  <li>Public health</li>
-  <li>Academia (sport sociology, physical cultural studies, etc.)</li>
-</ul>
-<br>
-  <h4>💬 I’m looking for help with ...</h4>
-<ul>
-  <li>Vue.js and Nuxt.js</li>
-  <li>Backend and full-stack development</li>
-  <li>Finding companies that create software for good</li>
-  <li>Databases</li>
-</ul>
-<br>
-  <h4>☺️ Ask me about ...</h4>
-<ul>
-  <li>UI/UX Design</li>
-  <li>Frontend Development</li>
-  <li>Responsive Web Design</li>
-  <li>Self-taught path</li>
-</ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/maureento8888/got-reel.git" target="_blank" rel="noopener noreferral">Game of Thrones character reel</a>, and <a href="https://github.com/maureento8888/Frontend-Mentor-Challenges.git" target="_blank" rel="https://github.com/maureento8888/Frontend-Mentor-Challenges.git">frontendmentor.io challenges</a></li>
+  <li>🌱 I’m currently learning Vue.js and Nuxt.js</li>
+  <li>💡 I’m looking to collaborate on multidisciplinary projects involving social justice, UI/UX, and Vue/Nuxt</li>
+  <li>My design work: <a href="https://dribbble.com/maureen_to" target="_blank" rel="noopener noreferral" alt="Dribbble">Dribbble</a></li>
+  <li>Occasional tech blogging at <a href="https://dev.to/maureento8888" target="_blank" rel="noopener noreferral" alt="dev.to">DEV</a></li>
+  <li>How to reach me: <a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>, , or <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>.<em> Please have "GitHub README.md" somewhere in subject line!</em></li>
+  <li>☺️ Ask me about UI/UX design, frontend development, responsive web design, self-taught path</li>

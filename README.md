@@ -1,7 +1,7 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Hi from Toronto 🇨🇦
+### Hello from Toronto! 🇨🇦
 
 #### UI/UX Designer, Frontend Dev - I develop what I design 👩🏻‍💻
 

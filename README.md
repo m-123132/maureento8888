@@ -46,7 +46,7 @@
 
 <br>
 
-<p>Being self-taught has made me adaptable and tenacious. In giving back, here's some sources that have contributed to my learning:</p>
+<p>Being self-taught has made me adaptable and tenacious. In giving back, here's some awesome teachers that have contributed to my learning:</p>
 
 <ul>
   <li>Nuxt: <a href="https://github.com/debs-obrien">Debbie O'Brien</a>'s <a href="https://youtube.com/c/DebbieOBrien">YouTube</a></li>

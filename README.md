@@ -3,9 +3,9 @@
 
 ### Hello from Toronto! 🇨🇦
 
-#### UI/UX Designer & Frontend Dev 👩🏻‍💻
+#### Frontend Dev & UI/UX Designer 👩🏻‍💻
 
-<p>Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "develop what I design"! All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check them regularly to update them. I deeply love Vue.js, its philosophy, and its close-knit, diverse community. You might find me vibing at a Vue.js conferences (Vue.js Amsterdam 2020 💚)!</p>
+<p>Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "develop what I design"! All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check them regularly to update them. I deeply love Vue.js, its philosophy, and its close-knit, diverse community. You might find me vibing at Vue.js conferences (Vue.js Amsterdam 2020 💚)!</p>
 
 <p>
 

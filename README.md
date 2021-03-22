@@ -5,6 +5,10 @@
 
 #### UI/UX Designer, Frontend Dev - I develop what I design 👩🏻‍💻
 
+<p>Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "develop what I design"! All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check them regularly to update them. I deeply love Vue/Nuxt, their philosophies, and their close-knit diverse communities. You might find me vibing at a Vue.js conferences (Vue.js Amsterdam 2020 💚)!</p>
+
+<br>
+
 <ul>
   
   <li>

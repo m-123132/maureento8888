@@ -33,7 +33,7 @@
   
   
   <li>
-    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>, or <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>. <em>Please have "GitHub README.md" somewhere in subject line!</em></p>
+    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/maureento" target="_blank" rel="noopener noreferral" alt="LinkedIn">LinkedIn</a>, or <a href="mailto:maureenito@gmail.com" target="_blank" rel="noopener noreferral">maureenito@gmail.com</a>. <em>Use "GitHub" somewhere in subject line!</em></p>
   </li>
   
   

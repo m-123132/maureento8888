@@ -51,7 +51,7 @@
 <ul>
   <li>Nuxt: <a href="https://github.com/debs-obrien">Debbie O'Brien</a>'s <a href="https://youtube.com/c/DebbieOBrien">YouTube</a></li>
 
-  <li>Frontend development, CSS: <a href="https://www.kevinpowell.co/">Kevin Powell</a>'s <a href="https://youtube.com/kepowob>YouTube</a> and his <a href="https://courses.kevinpowell.co/conquering-responsive-layouts> Conquering Responsive Layouts course</a></li>
+  <li>Frontend development, CSS: <a href="https://www.kevinpowell.co/">Kevin Powell</a>'s <a href="https://youtube.com/kepowob">YouTube</a> and his <a href="https://courses.kevinpowell.co/conquering-responsive-layouts"> Conquering Responsive Layouts course</a></li>
 
   <li>Full-stack: <a href="https://flaviocopes.com/">Flavio Copes</a>' <a href="https://flaviocopes.com/page/html-handbook/">HTML</a> and <a href="https://flaviocopes.com/page/css-handbook/">CSS</a> handbooks</li>
 

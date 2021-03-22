@@ -49,8 +49,8 @@
 <p>As a self-taught advocate, I am adaptable and easily know my learning strategies. In giving back, here's some sources that have contributed to my success:</p>
 
 <ul>
-  <li>Nuxt: [Debbie O'Brien](https://github.com/debs-obrien)'s [YouTube](https://youtube.com/c/DebbieOBrien) - Nuxt Ambassador, Head Developer Advocate @ Bit</li>
+  <li>Nuxt: <a href="https://github.com/debs-obrien">Debbie O'Brien</a>'s <a href="https://youtube.com/c/DebbieOBrien">YouTube</a> - Nuxt Ambassador, Head Developer Advocate @ Bit</li>
 
-  <li>Frontend devlopment, CSS: [Kevin Powell](https://www.kevinpowell.co/)'s [Youtube](https://youtube.com/kepowob) and [Conquering Responsive Layouts course](https://courses.kevinpowell.co/conquering-responsive-layouts)</li>
+  <li>Frontend development, CSS: <a href="https://www.kevinpowell.co/">Kevin Powell</a>'s <a href="https://youtube.com/kepowob>YouTube</a> and his <a href="https://courses.kevinpowell.co/conquering-responsive-layouts> Conquering Responsive Layouts course</a></li>
 </ul>
   

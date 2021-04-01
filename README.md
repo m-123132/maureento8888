@@ -29,7 +29,7 @@ Being self-taught has made me adaptable and tenacious. In giving back, here's so
 
 - [Frontend development, CSS]: [Kevin Powell](https://www.kevinpowell.co/)'s [YouTube](https://youtube.com/kepowob) and his [Conquering Responsive Layouts course](https://courses.kevinpowell.co/conquering-responsive-layouts)
 
-- [Full-stack]: [Flavio Copes](https://flaviocopes.com/)'[HTML](https://flaviocopes.com/page/html-handbook/) and [CSS](https://flaviocopes.com/page/css-handbook/) handbooks
+- [Full-stack]: [Flavio Copes](https://flaviocopes.com/)' [HTML](https://flaviocopes.com/page/html-handbook/) and [CSS](https://flaviocopes.com/page/css-handbook/) handbooks
 
 - [Full-stack]: [Code With Mosh](https://codewithmosh.com/p/home)'s [Ultimate JavaScript Mastery Series - Part 1](https://codewithmosh.com/p/javascript-basics-for-beginners) and [Ultimate JavaScript Mastery Series - Part 2](https://codewithmosh.com/p/object-oriented-programming-in-javascript)
   

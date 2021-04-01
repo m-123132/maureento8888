@@ -17,7 +17,7 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
   
 - ✍🏼 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito@gmail.com](mailto:maureenito@gmail.com) *Use "GitHub" somewhere in subject line!*
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito@gmail.com](mailto:maureenito@gmail.com) => *Use "GitHub" somewhere in subject line!*
 
 - ☺️ Ask me about UI/UX design, frontend development, responsive web design, and self-teaching
 

@@ -49,12 +49,12 @@
 <p>Being self-taught has made me adaptable and tenacious. In giving back, here's some awesome teachers that have contributed to my learning:</p>
 
 <ul>
-  <li>Nuxt: <a href="https://github.com/debs-obrien">Debbie O'Brien</a>'s <a href="https://youtube.com/c/DebbieOBrien">YouTube</a></li>
+  <li>[Nuxt]: <a href="https://github.com/debs-obrien">Debbie O'Brien</a>'s <a href="https://youtube.com/c/DebbieOBrien">YouTube</a></li>
 
   <li>[Frontend development, CSS]: <a href="https://www.kevinpowell.co/">Kevin Powell</a>'s <a href="https://youtube.com/kepowob">YouTube</a> and his <a href="https://courses.kevinpowell.co/conquering-responsive-layouts"> Conquering Responsive Layouts course</a></li>
 
-  <li>Full-stack: <a href="https://flaviocopes.com/">Flavio Copes</a>' <a href="https://flaviocopes.com/page/html-handbook/">HTML</a> and <a href="https://flaviocopes.com/page/css-handbook/">CSS</a> handbooks</li>
+  <li>[Full-stack]: <a href="https://flaviocopes.com/">Flavio Copes</a>' <a href="https://flaviocopes.com/page/html-handbook/">HTML</a> and <a href="https://flaviocopes.com/page/css-handbook/">CSS</a> handbooks</li>
 
-  <li>Full-stack: <a href="https://codewithmosh.com/p/home">Code With Mosh</a>'s <a href="https://codewithmosh.com/courses">Ultimate JavaScript Mastery Series (1 and 2)</a>
+  <li>[Full-stack]: [Code With Mosh](https://codewithmosh.com/p/home)'s <a href="https://codewithmosh.com/p/javascript-basics-for-beginners">Ultimate JavaScript Mastery Series - Part 1</a> and <a href="https://codewithmosh.com/p/object-oriented-programming-in-javascript">Ultimate JavaScript Mastery Series - Part 2</a>
 </ul>
   

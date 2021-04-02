@@ -25,7 +25,7 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
 
 Being self-taught has made me adaptable and tenacious. In giving back, here's some awesome teachers that have contributed to my learning:</p>
 
-- [Nuxt]:[Debbie O'Brien](https://github.com/debs-obrien)'s [YouTube](https://youtube.com/c/DebbieOBrien)
+- [Nuxt]: [Debbie O'Brien](https://github.com/debs-obrien)'s [YouTube](https://youtube.com/c/DebbieOBrien)
 
 - [Frontend development, CSS]: [Kevin Powell](https://www.kevinpowell.co/)'s [YouTube](https://youtube.com/kepowob) and his [Conquering Responsive Layouts course](https://courses.kevinpowell.co/conquering-responsive-layouts)
 

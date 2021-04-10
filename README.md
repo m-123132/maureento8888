@@ -25,7 +25,7 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
 
 <br>
 
-Being self-taught has made me adaptable and tenacious. In giving back, here's some awesome teachers that have contributed to my learning:</p>
+Being self-taught has made me adaptable and tenacious. In giving back, here's some awesome teachers that have contributed to my early foundations:</p>
 
 - [Nuxt]: [Debbie O'Brien](https://github.com/debs-obrien)'s [YouTube](https://youtube.com/c/DebbieOBrien)
 

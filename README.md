@@ -9,6 +9,8 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
 
 <br>
 
+`let myTechStack = { lang: { "HTML", "CSS", "JS" }, webFrameworks: { "Vue.js", "Nuxt.js" }, cssFrameworks: { "TailwindCSS" }, tooling: { "VSCode", "Git", "Netlify", "axios" }, design: { "Adobe Creative Cloud (Xd, Ai, Ps, Dn)", "Sketch", "Figma" }, ux: { "miro" } }`
+
 - 🔭 I’m currently working on [Game of Thrones character reel](https://github.com/maureento8888/got-reel.git), and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)
   
 - 💡 I’m looking to collaborate on **multidisciplinary projects**: **social justice**, **UI/UX**, and **Vue/Nuxt**

@@ -14,8 +14,10 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
 - 💡 I’m looking to collaborate on **multidisciplinary projects**: **social justice**, **UI/UX**, and **Vue/Nuxt**
   
 - 🏀 My design work: [Dribbble](https://dribbble.com/maureen_to)
+
+- ✍🏼 My UX work: [UxFolio](uxfol.io/maureenito) - WIP
   
-- ✍🏼 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
+- 👩🏻‍💻 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
 
 - 🎧 Where I listen to podcasts at [Podyssey](https://podyssey.fm/mo-to?utm_campaign=mobile_share)
 

@@ -21,7 +21,7 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
 
 - 🎧 Where I listen to podcasts at [Podyssey](https://podyssey.fm/mo-to?utm_campaign=mobile_share)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito[at]gmail.com](#) => *Use "GitHub" somewhere in subject line!*
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito[at]gmail.com](mailto:maureenito@gmail.com) => *Use "GitHub" somewhere in subject line!*
 
 - ☺️ Ask me about UI/UX design, frontend development, accessibility, responsive web design, and self-teaching
 

@@ -3,7 +3,7 @@
 
 ### Hello from Toronto! 🇨🇦
 
-#### Frontend Dev & UI/UX Designer 👩🏻‍💻
+#### Frontend Dev & Product Designer 👩🏻‍💻
 
 Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "develop what I design"! All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check them regularly to update them. In my free time, I involve myself in social justice, reading, listening to podcasts, and fulfilling my foodie dreams. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 
@@ -13,7 +13,7 @@ Hi there, I'm a self-taught frontend developer and UI/UX designer, so I can "dev
   
 - 💡 I’m looking to collaborate on **multidisciplinary projects**: **social justice**, **UI/UX**, and **Vue/Nuxt**
   
-- 🏀 My design work: [Dribbble](https://dribbble.com/maureen_to)
+- 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
 
 - ✍🏼 My UX work: [UXfolio](https://uxfol.io/maureenito)
   

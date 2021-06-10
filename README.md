@@ -15,7 +15,7 @@ Hi there, I'm a self-taught frontend developer and product designer, so I can "d
   
 - 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
 
-- ✍🏼 My UX work: [UXfolio](https://uxfol.io/maureenito)
+- ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito)
   
 - 👩🏻‍💻 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
 

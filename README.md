@@ -9,7 +9,7 @@ Hi there, I'm a self-taught frontend developer and product designer, so I can "d
 
 All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check regularly to update them.
 
-In my free time, I involve myself in social justice, reading, listening to podcasts, and fulfilling my foodie dreams. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
+In my free time, I involve myself with reading, listening to podcasts, and fulfilling my foodie dreams. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 
 <br>
 

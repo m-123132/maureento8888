@@ -15,7 +15,7 @@ In my free time, I involve myself with reading, listening to podcasts, and fulfi
 
 - 🔭 I’m currently working on [Game of Thrones character reel](https://github.com/maureento8888/got-reel.git), and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)
   
-- 💡 I’m looking to collaborate on **multidisciplinary projects**: **social justice**, **UI/UX**, and **Vue/Nuxt**
+- 💡 I’m looking to collaborate on **multidisciplinary projects**
   
 - 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
 

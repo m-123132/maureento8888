@@ -13,7 +13,7 @@ In my free time, I enjoy learning about investing, listening to podcasts, and fu
 
 <br>
 
-- 🔭 I’m currently working on [Game of Thrones character reel](https://github.com/maureento8888/got-reel.git), and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)
+- 🔭 I’m currently **taking a hiatus** <s>working on [Game of Thrones character reel](https://github.com/maureento8888/got-reel.git), and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)</s>
   
 - 💡 I’m looking to collaborate on **multidisciplinary projects**
   

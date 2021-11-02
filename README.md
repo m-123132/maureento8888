@@ -5,7 +5,7 @@
 
 #### Frontend Dev & Product Designer 👩🏻‍💻
 
-Hi there! By day, I'm a [B. Kin](https://kpe.utoronto.ca/academics-research/bachelor-kinesiology-bkin) graduate from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a self-taught frontend developer and product designer. I currently have interests spanning healthcare, to tech, and business.
+Hi there! By day, I'm a [B. Kin](https://kpe.utoronto.ca/academics-research/bachelor-kinesiology-bkin) graduate from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a self-taught frontend developer and product designer. I currently have interests spanning healthcare, tech and business.
 
 All my repos are opensource, so feel free to check them out. Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check regularly to update them. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 

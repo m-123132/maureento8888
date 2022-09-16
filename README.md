@@ -3,7 +3,7 @@
 
 ### Hello from Toronto! 🇨🇦
 
-#### Frontend Dev & Product Designer 👩🏻‍💻
+#### Frontend Dev & UX Designer 👩🏻‍💻
 
 Hi there! By day, I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a self-taught frontend developer and UX designer. I currently have interests spanning healthcare, tech and design.
 

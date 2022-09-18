@@ -7,7 +7,7 @@
 
 Hi there! By day, I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a self-taught frontend developer and UX designer. I currently have interests spanning healthcare, tech and design.
 
-All my repos are opensource, so feel free to check them out1 Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in occassionally to update them. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
+All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in occassionally to update them. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 
 In my free time, I enjoy learning about reading, listening to podcasts, and fulfilling my foodie dreams.
 

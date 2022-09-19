@@ -26,7 +26,7 @@ In my free time, I enjoy reading, being active, listening to podcasts, and fulfi
 - 👩🏻‍💻 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito[at]gmail.com](mailto:maureenito@gmail.com) => *Use "GitHub" somewhere in message!*
-  - Psst! If you've met me at a hackathon, reach out and say hi!
+  - *Psst! If you've met me at a hackathon, reach out and say hi!*
 
 - ☺️ Ask me about accessibility, UI/UX design, responsive web design, frontend development, and self-learning!
 

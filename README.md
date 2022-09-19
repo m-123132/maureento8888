@@ -5,17 +5,19 @@
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
-Hi there! By day, I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a self-taught frontend developer and UX designer. I currently have interests spanning healthcare, tech and design.
+Hi there! By day, I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a frontend developer and UX designer. I currently have interests spanning healthcare, tech and design.
 
-All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in occassionally to update them. I deeply love Vue.js, its philosophy and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
+All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them. I deeply love Vue.js; its philosophy; and its close-knit, diverse community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 
-In my free time, I enjoy learning about reading, listening to podcasts, and fulfilling my foodie dreams.
+In my free time, I enjoy learning about reading, being active, listening to podcasts, and fulfilling my foodie dreams.
 
 <br>
 
-- 🔭 I’m currently **taking a hiatus** <s>working on [Game of Thrones character reel](https://github.com/maureento8888/got-reel.git), and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)</s>
+- 🔭 I’m currently **taking a hiatus for graduate school**
+
+<!-- I'm currently working on my person portfolio and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)-->
   
-- 💡 I’m looking to collaborate on **multidisciplinary projects**
+- 💡 I’m looking to collaborate on projects that involve healthcare / healthcare management, equity, and tech for good.
   
 - 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
 
@@ -24,8 +26,9 @@ In my free time, I enjoy learning about reading, listening to podcasts, and fulf
 - 👩🏻‍💻 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento) OR [maureenito[at]gmail.com](mailto:maureenito@gmail.com) => *Use "GitHub" somewhere in message!*
+  - Psst! If you've met me at a hackathon, reach out and say hi!
 
-- ☺️ Ask me about UI/UX design, frontend development, accessibility, responsive web design, and self-teaching
+- ☺️ Ask me about accessibility, UI/UX design, responsive web design, frontend development, and self-learning!
 
 <br>
 

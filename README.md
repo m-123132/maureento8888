@@ -5,7 +5,7 @@
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
-Hi there! By day, I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca), and by night, I'm a frontend developer and UX designer. I currently have interests spanning healthcare, tech and design.
+Hi there! I'm a [MPK](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) student from the [University of Toronto](https://www.utoronto.ca) during the day ☀️, and by night 🌃, I'm a frontend web developer and UX designer. I currently have interests spanning tech, healthcare, accessibility, and design.
 
 All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them. I deeply love Vue.js, their philosophy, and its close-knit community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 

@@ -5,9 +5,9 @@
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
-Hi there! I'm a [graduate student](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) from the [University of Toronto](https://www.utoronto.ca) in the day ☀️, and by night 🌃, I'm a frontend developer and UX designer. My tech interests are in patient care, public health, and equity (in all its forms).
+Hi there! I'm a graduate student by  day ☀️, and a UX designer by night 🌃. My tech interests are in **patient care, public health, and equity**.
 
-All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them.
+All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my coding journey, so there may be issues or things that fall apart. I do check in when I have time to update them.
 
 In my free time, I enjoy reading, staying active, listening to music, and tunneling down an interest rabbit hole.
 
@@ -19,9 +19,9 @@ In my free time, I enjoy reading, staying active, listening to music, and tunnel
   
 - 💡 I’m looking to collaborate on projects that involve public health and equity.
   
-- 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
+- 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to) (hiatus)
 
-- ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (to be updated!)
+- ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (hiatus)
   
 - 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888) (hiatus)
 

@@ -5,29 +5,29 @@
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
-Hi there! I'm a [graduate student](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) from the [University of Toronto](https://www.utoronto.ca) in the day ☀️, and by night 🌃, I'm a frontend developer and UX designer. My tech interests are in patient care, health education, and accessibility.
+Hi there! I'm a [graduate student](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) from the [University of Toronto](https://www.utoronto.ca) in the day ☀️, and by night 🌃, I'm a frontend developer and UX designer. My tech interests are in patient care, public health, and equity (in all its forms).
 
-All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them. I deeply love Vue.js, their philosophy, and its close-knit community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
+All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them. I deeply love Vue.js, its philosophy, and its close-knit community. You might find me vibing at Vue.js conferences! (Vue.js Amsterdam 2020 💚)
 
-In my free time, I enjoy reading, staying active, listening to podcasts, and fulfilling my foodie dreams.
+In my free time, I enjoy reading, staying active, listening to music, and tunneling into an interest rabbit hole.
 
 <br>
 
-- 🔭 I’m currently **less active here to focus on graduate studies**
+- 🔭 I’m currently **less active to focus on life and career**
 
 <!-- I'm currently working on my personal portfolio and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)-->
   
-- 💡 I’m looking to collaborate on projects that involve healthcare / healthcare management, equity, and tech for good.
+- 💡 I’m looking to collaborate on projects that involve public health and equity.
   
 - 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to)
 
 - ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (to be updated!)
   
-- 👩🏻‍💻 Occasional tech blogging at [DEV](https://dev.to/maureento8888)
+- 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento)
 
-- ☺️ Ask me about accessibility, UI/UX design, responsive web design, frontend development, and self-learning!
+- ☺️ Ask me about web accessibility, responsive web design, and being self-taught
 
 <br>
 

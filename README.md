@@ -1,15 +1,15 @@
 <!--
 **maureento8888/maureento8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Hello from Toronto! 🇨🇦
+### Hello from Tkaronto!
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
 Hi there! I'm a [graduate student](https://kpe.utoronto.ca/academics-researchfuture-students/master-professional-kinesiology) from the [University of Toronto](https://www.utoronto.ca) in the day ☀️, and by night 🌃, I'm a frontend developer and UX designer. My tech interests are in patient care, public health, and equity (in all its forms).
 
-All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them. I deeply love Vue.js, its philosophy, and its close-knit community.
+All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my career, so there may be issues or things that fall apart. I do check in when I have time to update them.
 
-In my free time, I enjoy reading, staying active, listening to music, and tunneling into an interest rabbit hole.
+In my free time, I enjoy reading, staying active, listening to music, and tunneling down an interest rabbit hole.
 
 <br>
 
@@ -23,7 +23,7 @@ In my free time, I enjoy reading, staying active, listening to music, and tunnel
 
 - ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (to be updated!)
   
-- 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888)
+- 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888) (hiatus)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento)
 

@@ -5,7 +5,7 @@
 
 #### Frontend Dev & UX Designer 👩🏻‍💻
 
-Hi there! I'm a graduate student by  day ☀️, and a UX designer by night 🌃. My tech interests are in **patient care, public health, and equity**.
+Hi there! I'm a student by  day ☀️, and a UX designer by night 🌃. My tech interests are **public health and equity**.
 
 All my repos are opensource, so feel free to check them out! Many of my projects have been made at different times and milestones of my coding journey, so there may be issues or things that fall apart. I do check in when I have time to update them.
 
@@ -13,21 +13,21 @@ In my free time, I enjoy reading, staying active, listening to music, and tunnel
 
 <br>
 
-- 🔭 I’m currently **less active to focus on life and career**
+- 🔭 I’m currently **less active here to focus on life and career**
 
 <!-- I'm currently working on my personal portfolio and [frontendmentor.io challenges](https://github.com/maureento8888/Frontend-Mentor-Challenges.git)-->
   
-- 💡 I’m looking to collaborate on projects that involve public health and equity.
+<!-- 💡 I’m looking to collaborate on projects that involve public health and equity.-->
   
-- 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to) (hiatus)
+<!-- 🏀 My UI work: [Dribbble](https://dribbble.com/maureen_to) (hiatus)-->
 
-- ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (hiatus)
+<!-- ✍🏼 My UX work: [UXFolio](https://uxfol.io/maureenito) (hiatus)-->
   
-- 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888) (hiatus)
+<!-- 👩🏻‍💻 Tech blogging at [DEV](https://dev.to/maureento8888) (hiatus)-->
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento)
+<!-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maureento)-->
 
-- ☺️ Ask me about web accessibility, responsive web design, and being self-taught
+<!-- ☺️ Ask me about web accessibility, responsive web design, and being self-taught-->
 
 <br>
 
